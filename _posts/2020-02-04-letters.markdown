@@ -1,0 +1,33 @@
+---
+title:  "Realizam scrisori de dragoste!"
+subtitle: "La comanda, cu posibilitate de livrare in Lugoj!"
+author: "Craftana"
+avatar: "img/authors/wferr.png"
+image: "img/letter_stack.jpg"
+date:   2020-02-05 10:12:01
+---
+
+### Vintage, cu sigiliu
+Realizam scrisorile pe foi "invechite", si la final adaugam un sigiliu de ceara, in culoarea dumneavoastra favorita: rosu, argintiu sau auriu.
+
+### Preturi
+
+| Continut                                                                   | Pret |
+|----------------------------------------------------------------------------|------|
+| Poezie de dragoste data de dumneavoastra, scrisa de noi cu cerneala neagra | 5    |
+| Poezie de dragoste compusa de noi, bazata pe descrierea dumneavoastra      | 25   |
+{:.table-striped}
+
+| Forma                                       | Pret |
+|---------------------------------------------|------|
+| Foaie maro                                  | 15   |
+| Foaie maro cu marginile arse                | 20   |
+| Plic maro                                   | 10   |
+| Plic alb                                    | 0    |
+| Sigiliu de ceara (rosu, argintiu sau auriu) | 10   |
+
+| Livrare                                     | Pret                               |
+|---------------------------------------------|------------------------------------|
+| Livrare in Lugoj                            | 5                                  |
+| Livrare in Lugoj + floare la alegere        | 5 + (in functie de floarea aleasa) |
+
