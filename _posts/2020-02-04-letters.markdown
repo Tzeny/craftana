@@ -1,33 +1,65 @@
 ---
-title:  "Realizam scrisori de dragoste!"
-subtitle: "La comanda, cu posibilitate de livrare in Lugoj!"
+title:  "Realizăm scrisori de dragoste!"
+subtitle: "La comandă, cu posibilitate de livrare în Lugoj!"
 author: "Craftana"
 avatar: "img/authors/wferr.png"
 image: "img/letter_stack.jpg"
 date:   2020-02-05 10:12:01
 ---
 
-### Vintage, cu sigiliu
-Realizam scrisorile pe foi "invechite", si la final adaugam un sigiliu de ceara, in culoarea dumneavoastra favorita: rosu, argintiu sau auriu.
+# Scrisori realizate la comandă
 
-### Preturi
+Căutați cadoul perfect de ziua îndrăgostiților pentru jumătatea voastră? Sau poate vreți să îi arătați o dovadă de afecțiune acelei persoane speciale din viața dumneavoastră? Sau, vreți să faceți primul pas dar nu știți cum? 
 
-| Continut                                                                   | Pret |
-|----------------------------------------------------------------------------|------|
-| Poezie de dragoste data de dumneavoastra, scrisa de noi cu cerneala neagra | 5    |
-| Poezie de dragoste compusa de noi, bazata pe descrierea dumneavoastra      | 25   |
-{:.table-striped}
+Lașați-ne să vă ajutam, cu scrisorile noastre personalizate, realizate la comandă. Foile "învechite" artificial, poeziile sau textele de dragoste și scrisul de mana sau la mașină vor face că scrisoarea dumneavoastră să topească chiar și cele mai reci inimi, și să aducă garantat un zâmbet pe buzele acelei persoane speciale.
 
-| Forma                                       | Pret |
-|---------------------------------------------|------|
-| Foaie maro                                  | 15   |
-| Foaie maro cu marginile arse                | 20   |
-| Plic maro                                   | 10   |
-| Plic alb                                    | 0    |
-| Sigiliu de ceara (rosu, argintiu sau auriu) | 10   |
+# Mostre
 
-| Livrare                                     | Pret                               |
-|---------------------------------------------|------------------------------------|
-| Livrare in Lugoj                            | 5                                  |
-| Livrare in Lugoj + floare la alegere        | 5 + (in functie de floarea aleasa) |
+{% include image-gallery.html folder="/img/galleries/letter_samples" %}
+
+# Prețuri
+Prima parte este mesajul. Aveți deja ceva în minte, sau doriți să ne descrieți frumusețea, și să ne lăsați pe noi să ne ocupam de restul? 
+
+| Conținut                                | Preț (RON) |
+|-----------------------------------------|------------|
+| Text adus de client                     | 0          |
+| Poezie compusă de noi                   | 30         |
+| Proză compusă de noi                    | 20         |
+
+Stratul fizic, hârtia vă fi locul pe care se vor așeza cuvintele. Cum doriți să arate foaia dumneavoastră?
+
+| Hârtie          | Preț (RON) |
+|-----------------|------|
+| Albă            | 2.5  |
+| "Învechită"     | 7.5  |
+| Cu marginile arse | +5    |
+
+Apoi urmează scrisul. Doriți un scris timid de mână, sau sentimentul de vechi produs de literele realizate de o mașină de scris autentică?
+
+| Scris     | Preț (RON) |
+|-----------|------|
+| La mașină | 10   |
+| De mână   | 15   |
+
+Doriți să mai adaugăm ceva înainte să împăturim scrisoarea?
+
+| Extra                                   | Preț (RON)    |
+|-----------------------------------------|---------------|
+| Poza la alegere imapturita în scrisoare | 10            |
+| Alte cerințe                            | contactati-ne |
+
+După ce împăturim cu grija scrisoarea, aceasta se va odihni într-un plic până când ajunge în mâna destinatarului. Cum doriți să arate acesta?
+
+| Plic       | Preț (RON) |
+|------------|------------|
+| Normal     | 2.5        |
+| "Învechit" | 7.5        |
+| Sigiliu    | +5          |
+
+În final, scrisoarea trebuie să ajungă la destinatar. O veți livra dumneavoastră, sau doriți să ne ocupăm noi de partea aceasta?
+
+| Livrare  | Preț (RON)    |
+|----------|---------------|
+| În Lugoj | 5             |
+| Floare   | contactati-ne |
 

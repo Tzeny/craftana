@@ -1,0 +1,13 @@
+table, th, td {
+    border: 1px solid black;
+}
+table {
+    width: 100%;
+}
+table tr td:first-child + td {
+    text-align: center;
+}
+
+img {
+    width: 100%;
+}
