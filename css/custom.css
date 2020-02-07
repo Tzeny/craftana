@@ -7,7 +7,3 @@ table {
 table tr td:first-child + td {
     text-align: center;
 }
-
-img {
-    width: 100%;
-}

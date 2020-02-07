@@ -3,7 +3,7 @@ title:  "Realizăm scrisori de dragoste!"
 subtitle: "La comandă, cu posibilitate de livrare în Lugoj!"
 author: "Craftana"
 avatar: "img/authors/wferr.png"
-image: "img/letter_stack.jpg"
+image: "img/letters_background.jpg"
 date:   2020-02-05 10:12:01
 ---
 
