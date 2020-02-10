@@ -38,7 +38,6 @@ Apoi urmează scrisul. Doriți un scris timid de mână, sau sentimentul de vech
 
 | Scris     | Preț (RON) |
 |-----------|------|
-| La mașină | 10   |
 | De mână   | 15   |
 
 Doriți să mai adaugăm ceva înainte să împăturim scrisoarea?
@@ -52,6 +51,7 @@ După ce împăturim cu grija scrisoarea, aceasta se va odihni într-un plic pâ
 
 | Plic       | Preț (RON) |
 |------------|------------|
+| Scrisoare împăturită     | 0        |
 | Normal     | 2.5        |
 | "Învechit" | 7.5        |
 | Sigiliu    | +5          |
@@ -62,4 +62,11 @@ După ce împăturim cu grija scrisoarea, aceasta se va odihni într-un plic pâ
 |----------|---------------|
 | În Lugoj | 5             |
 | Floare   | contactați-ne |
+
+
+# Contactați-ne pentru comandă
+
+Telefon: +40728006574
+
+Facebook: [Craftana](https://www.facebook.com/craftana.lugoj/ "Pagina de Facebook")
 
