@@ -34,11 +34,11 @@ Stratul fizic, hârtia vă fi locul pe care se vor așeza cuvintele. Cum doriți
 | "Învechită"     | 7.5  |
 | Cu marginile arse | +5    |
 
-Apoi urmează scrisul. Doriți un scris timid de mână, sau sentimentul de vechi produs de literele realizate de o mașină de scris autentică?
+Apoi urmează scrisul. Doriți un scris timid de mână, sau sentimentul de vechi produs de literele realizate de o mașină de scris autentică? 
 
 | Scris     | Preț (RON) |
 |-----------|------|
-| De mână   | 15   |
+| De mână / la  mașină | 0   |
 
 Doriți să mai adaugăm ceva înainte să împăturim scrisoarea?
 
