@@ -39,11 +39,6 @@
 	position: relative;
 	cursor: pointer;
 }
-/* Fix IE */
-
-/* .card__container--fix-image .card__image {
-	position: fixed; 
-} */
 
 .card__content {
 	position: relative;
@@ -183,6 +178,12 @@
 		padding: 25px 0px 100px;
 	}
 }
+
+
+/* .card__container--fix-image .card__image {
+	position: fixed; 
+} */
+
 
 
 *,
